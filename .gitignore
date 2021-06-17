@@ -1,0 +1,11 @@
+*.csv
+/**/*.tsv
+**/results
+*.png
+*.txt
+*.pkl
+*.pickle
+*.pyc
+*.r
+*.ods
+*.json
